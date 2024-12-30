@@ -1,0 +1,3 @@
+Using Label encoding creates a numerical ranking where as One Hot encoding treats the categories independently and eliminates any implicit relationships introduced by numerical values.
+Hence we chose to use One Hot encoding for Degree, Extracurricular activities, Free time activity. 
+Label encoding for Workout, Parents Degree. 
